@@ -1,0 +1,16 @@
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW.deps.json
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW.runtimeconfig.json
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW.runtimeconfig.dev.json
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW.dll
+/home/royxue/Desktop/csharp/ArraysHW/bin/Debug/net5.0/ArraysHW.pdb
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.csproj.AssemblyReference.cache
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.GeneratedMSBuildEditorConfig.editorconfig
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.AssemblyInfoInputs.cache
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.AssemblyInfo.cs
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.csproj.CoreCompileInputs.cache
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.dll
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/refint/ArraysHW.dll
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.pdb
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ArraysHW.genruntimeconfig.cache
+/home/royxue/Desktop/csharp/ArraysHW/obj/Debug/net5.0/ref/ArraysHW.dll
